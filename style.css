@@ -1,11 +1,10 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
-    margin-left: 5%;
     margin-right: 10%;
 }
 
-.container img {
-    max-width: 40%;
+.size img {
+    max-width: 20%;
     height: auto;
 }

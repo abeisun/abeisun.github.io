@@ -12,10 +12,9 @@ img.size {
 }
 
 h1 {
-	text-align: center;
 	font-size: 64px;
-	background-color: yellow;
-	border-style: dashed;
+	background-color: #89cff0;
+	border-style: solid;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	margin-left: 20%;

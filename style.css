@@ -8,3 +8,8 @@ body {
     max-width: 20%;
     height: auto;
 }
+
+.center{
+	test-align: center;
+	color: blue;
+}

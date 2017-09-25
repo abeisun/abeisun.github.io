@@ -4,7 +4,7 @@ body {
     margin-right: 10%;
 }
 
-.size img {
+img.size {
     max-width: 20%;
     height: auto;
 }

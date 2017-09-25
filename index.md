@@ -1,38 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
+<!doctype html> <!-- denotes to use HTML5 standard -->
 
-You can use the [editor on GitHub](https://github.com/abeisun/abeisun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html> <!-- denotes this is an HTML document -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+<title>Portfolio | Angela Sun</title>
+<meta charset = "utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1"/>
+<link href = "style.css" rel = "stylesheet" />
+</head>
 
-### Markdown
+<body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1>Angela Sun</h1>
+ <img src="/Users/angie/Pictures/angelasun.jpg" alt="Headshot of Angela Sun">
+<p id = "education">Education</p>
+<p>Check out my resume <a href="/Users/angie/public_html/resume.html">here! </a></p>
+</body> 
+<head>
+<title>Angela Sun</title>
 
-```markdown
-Syntax highlighted code block
+</head>
 
-# Header 1
-## Header 2
-### Header 3
+<body>
+</body>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abeisun/abeisun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-<h1> New stuff </h1>
+</html> 

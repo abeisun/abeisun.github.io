@@ -5,17 +5,18 @@ body {
 }
 
 img.size {
-    height: auto%; 
+    height: auto; 
     width: auto; 
     max-width: 350px; 
     max-height: 350px;
 }
 
-h1 {
+.name {
 	text-align: center;
 	font-size: 64px;
 	background-color: #89cff0;
 	border-style: solid;
+	border-radius: 2px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	margin-left: 20%;
@@ -25,4 +26,9 @@ h1 {
 .center{
 	text-align: center;
 	color: #4B0082;
+}
+
+.contact{
+	font-size: 12px;
+	color: #89cff0;
 }
